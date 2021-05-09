@@ -1,2 +1,2 @@
 # react-tutorial
-React公式チュートリアル(三目並べゲーム/tic-tac-toe)の資材置き場 https://ja.reactjs.org/tutorial/tutorial.html
+[React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)(三目並べゲーム/tic-tac-toe)の資材置き場
